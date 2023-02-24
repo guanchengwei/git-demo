@@ -14,4 +14,4 @@ hello git! hello smlz!
 hello git! hello smlz!
 hello git! hello smlz!
 hello git! hello smlz! master test
-hello git! hello smlz!
+hello git! hello smlz! hot-fix
